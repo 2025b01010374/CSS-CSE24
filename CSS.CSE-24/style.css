@@ -1,11 +1,11 @@
-*{
-    margin: 0;
-    padding: 0;
+ /* *{ */
+    /* margin: 0;
+    padding: 0; */
     /* box-sizing: border-box;  */
-}
+/* } */
 
 
-p{
+/* p{
     color:blue; 
     background-color: rgb(184, 128, 128);
     text-align: center;
@@ -34,4 +34,46 @@ div{
  #l1{
     color: brown;
  }
- 
+   */
+
+
+
+   .box1 {
+    border: 2px solid rgb(10, 51, 141);
+    margin: 20px;
+    padding: 20px;
+    background-color: cornflowerblue;
+    height: 100px;
+    width: 200px;
+    text-align: center;
+   }
+
+   .box2{
+    border: 5px double rgb(184, 14, 113);
+    margin: 20px;
+    padding: 20px 10px;
+    background-color: lightpink;
+    height: 100px;
+    width: 200px;
+    text-align: center;
+   }
+
+   .box3 {
+    border: 2px dashed rgb(219, 40, 40);
+    margin: 20px;
+    padding: 20px 10px 30px;
+    background-color: lightsalmon;
+    height: 100px;
+    width: 200px;
+    text-align: center;
+   }
+
+   .box4 {
+    border: 2px dotted rgb(121, 35, 35);
+    margin: 20px;
+    padding: 10px 20px 30px 40px;
+    background-color: lightsalmon;
+    height: 100px;
+    width: 200px;
+    text-align: center;
+   }
