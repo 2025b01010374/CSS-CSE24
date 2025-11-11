@@ -1,4 +1,4 @@
-
+/* 
 .box1 {
     border: 2px solid black;
     margin: 15px;
@@ -21,4 +21,44 @@
     padding: 0px ;
     font-size: small;
     background-color:rgb(50, 211, 50);
+} */
+
+.b0{
+    border: 3px solid black;
+    margin: 20px;
+    padding: 10px;
+    height: 350px;
+    width: 500px;
+    text-align: center;
+
+    
+}
+
+.box{
+    display: inline-block;
+    height: 200px;
+    width: 120px;
+    margin: 10px;
+    padding: 10px;
+}
+ 
+.b1{
+    border: 2px solid rgb(194, 241, 63);
+    background-color: rgb(194, 241, 63);
+    
+   
+
+}
+
+.b2{
+    border: 2px solid rgba(224, 36, 23, 0.822);
+    background-color:rgba(224, 36, 23, 0.822);
+
+    
+}
+
+.b3{
+    border: 2px solid rgb(98, 218, 240);
+    background-color: aqua;
+  
 }
